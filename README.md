@@ -22,7 +22,7 @@ The NLP Requirement Classifier is a Python script that uses Natural Language Pro
 
         Clone the repository:
 
-        git clone https://github.com/your_username/nlp-requirement-classifier.git
+        git clone https://github.com/azafar224/nlp-requirement-classifier.git
         
    Install the required dependencies:
        
