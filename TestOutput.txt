@@ -1,0 +1,68 @@
+/usr/local/lib/python3.10/dist-packages/sklearn/model_selection/_split.py:700: UserWarning: The least populated class in y has only 2 members, which is less than n_splits=5.
+  warnings.warn(
+Mean Cross-Validation Accuracy: 0.5288449163449164
+Requirement: MN:New System version releases shall be released at the beginning of each NFL season.
+Predicted Type: MN
+------------------------------
+Requirement: O:Product installations and upgrades shall be handled by the middleware technology team within established launch time frames.
+Predicted Type: O
+------------------------------
+Requirement: SC:The product shall be capable of handling the existing 1000 users. This number is expected to grow 5 times within the next year.
+Predicted Type: SC
+------------------------------
+Requirement: US:The product shall be easy to use by Adjusters and Collision Estimators.  95% of Adjusters and Collision Estimators shall find the product easy to use.
+Predicted Type: US
+------------------------------
+Requirement: O:The product shall be supported using the corporate support center.
+Predicted Type: O
+------------------------------
+Requirement: F:The System shall allow on demand generation of all Inventory Quantity Adjustment documents since certain point of time.
+Predicted Type: F
+------------------------------
+Requirement: F:The Disputes System shall allow the user to create or initiate a chargeback request.  The system must prompt the user to enter the required information to initiate a chargeback request. The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid.
+Predicted Type: F
+------------------------------
+Requirement: F:If the leads score falls within the low average then it will be returned to the supplying vendor
+Predicted Type: F
+------------------------------
+Requirement: O: We must be able to interface with the following browsers: IE 5.X  6.0  Netscape 6.x  7.x  8.x and Firefox 1.0.
+Predicted Type: O
+------------------------------
+Requirement: F: shall be able to stream purchased movie via Windows Media Player  for up to 2 days aftere purchase date.
+Predicted Type: F
+------------------------------
+Accuracy Score: 0.9982014388489209
+/usr/local/lib/python3.10/dist-packages/sklearn/model_selection/_split.py:700: UserWarning: The least populated class in y has only 3 members, which is less than n_splits=5.
+  warnings.warn(
+Mean Cross-Validation Accuracy: 0.9142857142857143
+Requirement: F:The system shall color code events according to their variance from current time.
+Predicted Type: F
+------------------------------
+Requirement: F:Program Administrators and Nursing Staff Members shall be able to add new classes for the nursing department into the system.
+Predicted Type: F
+------------------------------
+Requirement: L:The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.
+Predicted Type: L
+------------------------------
+Requirement: F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts  including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.
+Predicted Type: F
+------------------------------
+Requirement: F:The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members� planning purposes.
+Predicted Type: F
+------------------------------
+Requirement: F: Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Nursing Student  including student ID  student name  phone number  e-mail  status (full time or part time)  and program of study.
+Predicted Type: F
+------------------------------
+Requirement: LF: The user interface shall have standard menus  buttons for navigation
+Predicted Type: LF
+------------------------------
+Requirement: F: The system shall be able to display a printable summary for individual clinical labs  which will include (but not be limited to) class name  class number  lab section  listing of students enrolled  instructor  day(s)  time  and location.
+Predicted Type: F
+------------------------------
+Requirement: US:100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.
+Predicted Type: US
+------------------------------
+Requirement: F: The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort�s program of study and changes to a given week�s schedule (lab cancelled this week due to instructor illness).
+Predicted Type: F
+------------------------------
+Accuracy Score: 1.0
